@@ -9,4 +9,5 @@ if (feet <= 400) {
   }
   else
   message = 'No can do.'
+  return message
 }
