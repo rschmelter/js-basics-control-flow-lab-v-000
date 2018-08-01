@@ -1,10 +1,10 @@
 // Write your code in this file!
-function scuberGreetingForFeet(value) {
+function scuberGreetingForFeet(feet) {
 let message
 
-if (value <= 400) {
+if (feet <= 400) {
   message = 'This one is on me!'
-  elsif (value > 400)
+  elsif (feet > 400)
   message = 'I will gladly take your thirty bucks.'
   }
   else
