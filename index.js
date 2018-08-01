@@ -7,6 +7,6 @@ if (value <= 400) {
   elsif (value > 400)
   message = 'I will gladly take your thirty bucks.'
   }
-  else 
+  else
   message = 'No can do.'
 }
